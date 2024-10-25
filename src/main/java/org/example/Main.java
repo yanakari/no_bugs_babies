@@ -38,6 +38,7 @@ public class Main {
         time.setHour(12);
         time.setMin(23);
         time.setSec(33);
+        time.tick();
         time.readTime();
 
         //Автомобиль
