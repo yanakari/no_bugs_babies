@@ -1,6 +1,4 @@
-package org.example.task2;
-
-import com.sun.source.doctree.StartElementTree;
+package org.example.task1_1;
 
 public class Point implements Movable {
     private int x;

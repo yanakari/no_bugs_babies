@@ -1,10 +1,10 @@
 package org.example;
 
-import org.example.task2.Book;
-import org.example.task2.Point;
-import org.example.task2.Student;
-import org.example.task2.Clock;
-import org.example.task2.Car;
+import org.example.task1_1.Book;
+import org.example.task1_1.Point;
+import org.example.task1_1.Student;
+import org.example.task1_1.Clock;
+import org.example.task1_1.Car;
 
 
 public class Main {
