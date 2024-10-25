@@ -7,15 +7,6 @@ import org.example.task2.Clock;
 import org.example.task2.Car;
 
 
-//просто комментарий
-
-/**
- * тут очень длинный комментарий
- * текст просто огроменный
- * парапапам
- * хочу вкусняшку
- */
-
 public class Main {
     public static void main(String[] args) {
 
